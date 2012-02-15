@@ -11,7 +11,7 @@ Because I tend to re-write these often...
 Licensing
 ---------
 
-All code is / must be licensed under the [AOL](http://aol.nexua.org/#!/Geometry.js/Nijikokun/nijikokun@gmail.com/nijikokun).
+All code is licensed under the [AOL](http://aol.nexua.org/#!/Geometry.js/Nijikokun/nijikokun@gmail.com/nijikokun).
 
 For more information
 --------------------
